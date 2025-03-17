@@ -1,4 +1,4 @@
-# Texto de prueba
+# Codigo de prueba
 def suma(a: int, b: int):
 	return a + b
 
